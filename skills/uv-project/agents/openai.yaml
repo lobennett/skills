@@ -1,0 +1,3 @@
+interface:
+  display_name: "UV Project"
+  short_description: "Start a uv package with Google style conventions"
