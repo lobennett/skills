@@ -1,0 +1,5 @@
+interface:
+  display_name: "Slow Code"
+  short_description: "Code one approved function at a time"
+policy:
+  allow_implicit_invocation: false
